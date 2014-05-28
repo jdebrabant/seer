@@ -1,0 +1,852 @@
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 20 16 1 F1stats = [ 41 0 0 0.000128 ] 0.001059 0.000131 0.001739
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.800000 16 17861 0.006715 0 0 0 0 1 1 1 100 2 : 41 485 1820 3670 4670 3972 2280 855 190 19 0 : 0.006439 0.011439 0.473955 0.492027
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 20 16 1 F1stats = [ 41 0 0 0.002785 ] 0.001833 0.000161 0.005137
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.800000 16 46201 0.025275 0 0 0 0 1 1 1 100 2 : 41 501 2044 4746 7554 9056 8628 6672 4153 2017 728 182 28 2 0 : 0.000811 0.027789 1.708713 1.737595
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 20 16 1 F1stats = [ 41 0 0 0.004340 ] 0.105793 0.000174 0.110975
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.800000 16 272921 0.244066 0 0 0 0 1 1 1 100 2 : 41 629 3836 13354 30626 49728 59412 53208 35857 18001 6552 1638 252 18 0 : 0.013584 0.277349 19.750761 20.042020
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 20 16 1 F1stats = [ 20709 0 0 0.387636 ] 0.286340 0.002067 0.681128
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 2 2 1 F1stats = [ 3425 0 0 0.043001 ] 0.029073 0.002438 0.077596
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 2 2 1 F1stats = [ 1177 0 0 0.005379 ] 0.010793 0.000846 0.018846
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 1 1 1 F1stats = [ 4001 0 0 0.052314 ] 0.042400 0.000559 0.097135
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.800000 1 1 1 F1stats = [ 1377 0 0 0.005538 ] 0.081144 0.516709 0.604542
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 1 1 1 F1stats = [ 801 0 0 0.003818 ] 0.012553 0.000242 0.017238
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 1 1 1 F1stats = [ 417 0 0 0.000710 ] 0.002644 0.000200 0.004412
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 1 1 1 F1stats = [ 417 0 0 0.000652 ] 0.002451 0.000296 0.004613
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 1 1 1 F1stats = [ 417 0 0 0.000771 ] 0.002593 0.000177 0.004111
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 1 1 1 F1stats = [ 161 0 0 0.011439 ] 0.001241 0.000170 0.013810
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 1 1 1 F1stats = [ 51 0 0 0.000195 ] 0.028624 0.001881 0.119151
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.000207 ] 0.000445 0.000219 0.001457
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.000110 ] 0.000551 0.000196 0.001222
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.000199 ] 0.000475 0.000125 0.001054
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.007460 ] 0.000678 0.000414 0.010647
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 1.000000 1 1 1 F1stats = [ 26 0 0 0.000067 ] 0.000443 0.000153 0.000992
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.000120 ] 0.000523 0.000229 0.001207
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 1.000000 1 1 1 F1stats = [ 26 0 0 0.000067 ] 0.000309 0.000128 0.000798
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.000191 ] 0.000467 0.000180 0.001281
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 1.000000 1 1 1 F1stats = [ 26 0 0 0.000199 ] 0.017371 0.000395 0.025958
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.000954 ] 0.000442 0.000167 0.002201
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.000119 ] 0.000451 0.000220 0.001100
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 1.000000 1 1 1 F1stats = [ 26 0 0 0.000065 ] 0.002846 0.000135 0.003294
+TPOSE SEQ /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.000199 ] 1601 F2stats = [ 1876 1601 0.001438 ] 0.000244 0.000398 0.003040
+TPOSE SEQ /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.002416 ] 1601 F2stats = [ 1876 1601 0.001139 ] 0.000270 0.000222 0.004934
+TPOSE SEQ /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 51 0 0 0.000095 ] 1601 F2stats = [ 1876 1601 0.000775 ] 0.000207 0.000144 0.001801
+TPOSE SEQ /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 1 1 1 F1stats = [ 51 0 0 0.000089 ] 1601 F2stats = [ 1876 1601 0.000743 ] 0.000240 0.000132 0.001527
+TPOSE SEQ /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 1 1 1 F1stats = [ 51 0 0 0.000090 ] 1601 F2stats = [ 1876 1601 0.000760 ] 0.000207 0.000136 0.001517
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 1 1 1 F1stats = [ 51 0 0 0.000089 ] 0.000457 0.000127 0.000975
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 1 1 1 F1stats = [ 26 0 0 0.000074 ] 0.000619 0.000194 0.002666
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 1 1 10 F1stats = [ 51 0 0 0.000120 ] 0.021293 0.001550 0.023433
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 1 1 10 F1stats = [ 51 0 0 0.000130 ] 0.000939 0.001369 0.002982
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 1 1 10 F1stats = [ 51 0 0 0.000090 ] 0.000933 0.000797 0.002089
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 2 2 10 F1stats = [ 51 0 0 0.002414 ] 0.001109 0.001992 0.005825
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.800000 2 0 0.000000 0 0 0 0 0 -1 1 100 100 : 0 0 : 0.000456 0.000031 0.000000 0.000844
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.800000 2 2 10 F1stats = [ 26 0 0 0.000081 ] 0.001172 0.001811 0.003343
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.800000 2 0 0.000000 0 0 0 0 0 -1 1 100 100 : 26 0 : 0.000274 0.000903 0.000001 0.001513
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.800000 2 2 10 F1stats = [ 51 0 0 0.004543 ] 0.001553 0.014827 0.055121
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.800000 2 0 0.000000 0 0 0 0 0 -1 1 100 100 : 0 0 : 0.000180 0.000074 0.000000 0.000664
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 2 F1stats = [ 51 0 0 0.000100 ] 0.000607 0.000404 0.001383
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 2 F1stats = [ 51 0 0 0.000096 ] 0.000885 0.000199 0.001468
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 2 F1stats = [ 51 0 0 0.000265 ] 0.000527 0.000273 0.001354
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 1 F1stats = [ 51 0 0 0.000293 ] 0.003444 0.000321 0.008027
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 1 F1stats = [ 51 0 0 0.000692 ] 0.000668 0.000414 0.002963
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 1 F1stats = [ 51 0 0 0.000296 ] 0.000669 0.000286 0.001602
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 1 F1stats = [ 51 0 0 0.000095 ] 0.001112 0.000162 0.001708
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 1 F1stats = [ 51 0 0 0.028184 ] 0.000609 0.000469 0.040136
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 1 38676 0.023625 0 0 0 0 1 2 1 2 2 : 51 1276 10450 27225 0 : 0.000341 0.001821 0.521899 0.524266
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 1 F1stats = [ 51 0 0 0.003326 ] 0.000645 0.000525 0.009210
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 1 F1stats = [ 51 0 0 0.001838 ] 0.002483 0.003382 0.009952
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 1 F1stats = [ 521 0 0 0.029708 ] 0.003579 0.000340 0.035157
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 1 F1stats = [ 401 0 0 0.024713 ] 0.025747 0.000508 0.052092
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 2 1 1 F1stats = [ 401 0 0 0.006965 ] 0.002598 0.000275 0.011510
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 241 0 0 0.022451 ] 0.002476 0.001324 0.079976
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 241 0 0 0.000501 ] 0.002264 0.000166 0.003731
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 101 0 0 0.037428 ] 0.001158 0.000131 0.066397
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 101 0 0 0.005288 ] 0.001115 0.000168 0.006957
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 101 0 0 0.018867 ] 0.001589 0.000174 0.021044
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 101 0 0 0.000232 ] 0.001043 0.000141 0.001802
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 3 12252451 0.041868 0 0 0 0 1 1 1 3 2 : 101 3231 50540 498470 2793000 8844500 0 : 0.000740 0.029286 239.735427 239.765815
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 101 0 0 0.000264 ] 0.001260 0.000173 0.002082
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 3 12252451 0.040743 0 0 0 0 1 1 1 3 2 : 101 3231 50540 498470 2793000 8844500 0 : 0.000717 0.022246 221.271989 221.295255
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 11 0 0 0.000050 ] 0.000394 0.000470 0.001167
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 3 334 0.005282 0 0 0 0 1 1 1 3 2 : 11 54 92 74 30 5 0 : 0.000118 0.000320 0.015091 0.015741
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 4501 0 0 0.142793 ] 0.117238 0.003076 0.274181
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 151 0 0 0.001093 ] 0.002263 0.000194 0.004132
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 3 397393 0.040395 0 0 0 0 1 1 1 3 2 : 151 2271 12490 37464 60480 51048 0 : 0.001441 0.048326 11.081500 11.131764
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 3 3 1 F1stats = [ 151 0 0 0.014006 ] 0.001994 0.000254 0.016969
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 3 2032829 0.039440 0 0 0 0 1 1 1 100 2 : 151 2271 12490 39108 82204 125394 143986 126112 84084 42042 15288 3822 588 42 0 : 0.005776 0.050907 63.348716 63.406682
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 151 0 0 0.000357 ] 0.019554 0.000202 0.020662
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 2310149 0.019776 0 0 0 0 1 1 1 100 2 : 151 2451 13750 43413 91654 140129 161066 141117 94094 47047 17108 4277 658 47 0 : 0.000906 0.025698 15.363372 15.390340
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 151 0 0 0.000313 ] 0.001085 0.000289 0.002312
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 2310149 0.023952 0 0 0 0 1 1 1 100 2 : 151 2451 13750 43413 91654 140129 161066 141117 94094 47047 17108 4277 658 47 0 : 0.000968 0.033105 15.049160 15.083619
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 151 0 0 0.014725 ] 0.001034 0.000195 0.016870
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 442743 0.040590 0 0 0 0 0 1 1 3 2 : 151 2451 13750 41769 67830 57173 0 : 0.000957 0.093008 3.129129 3.223470
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 126 0 0 0.039284 ] 0.001184 0.000176 0.098562
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 360915 0.015632 0 0 0 0 0 1 1 3 2 : 126 2070 11665 35532 57744 48664 0 : 0.000747 0.006318 2.172885 2.180257
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 126 0 0 0.001457 ] 0.001655 0.000144 0.003673
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 397596 0.043340 0 0 0 0 0 1 1 3 2 : 126 2200 12638 38954 63600 53560 0 : 0.000998 0.058912 12.906154 12.966358
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 5 5 1 F1stats = [ 1 0 0 0.000213 ] 0.000122 0.006861 0.010169
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 5 1 0.000043 0 0 0 0 0 1 1 3 2 : 1 1 0 : 0.000041 0.000031 0.000067 0.000528
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 126 0 0 0.000341 ] 0.001015 0.000368 0.003470
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 360915 0.016266 0 0 0 0 0 1 1 3 2 : 126 2070 11665 35532 57744 48664 0 : 0.007392 0.010719 2.404801 2.423273
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 26 0 0 0.000294 ] 0.002095 0.000484 0.003678
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 26 0 0 0.000063 ] 0.000748 0.000144 0.039335
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 338324 0.003542 0 0 0 0 0 1 1 100 2 : 26 412 2326 7376 15596 23852 27416 24020 16016 8008 2912 728 112 8 0 : 0.000190 0.000471 1.869260 1.870182
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 26 0 0 0.002377 ] 0.000275 0.000159 0.003453
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 338324 0.003164 0 0 0 0 0 1 1 100 2 : 26 412 2326 7376 15596 23852 27416 24020 16016 8008 2912 728 112 8 0 : 0.000191 0.005483 1.435766 1.441896
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 5 5 1 F1stats = [ 1 0 0 0.022482 ] 0.000113 0.008187 0.035299
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 5 1 0.000034 0 0 0 0 0 1 1 100 2 : 1 1 0 : 0.000039 0.000031 0.000056 0.000317
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 5 1 1 F1stats = [ 126 0 0 0.000522 ] 0.001215 0.000148 0.043125
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 1756283 0.015196 0 0 0 0 0 1 1 100 2 : 126 1974 10921 34278 72212 110333 126799 111092 74074 37037 13468 3367 518 37 0 : 0.000763 0.027682 10.294015 10.322825
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 506 51 1 F1stats = [ 126 0 0 0.001939 ] 0.003573 0.000192 0.006450
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 51 1918116 0.073023 0 0 0 0 0 1 1 100 2 : 126 2056 11630 36880 77980 119260 137080 120100 80080 40040 14560 3640 560 40 0 : 0.001231 0.062205 78.374572 78.438362
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 506 51 1 F1stats = [ 219 0 0 0.001489 ] 0.002969 0.000177 0.005270
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 51 2436427 0.057421 0 0 0 0 0 1 1 100 2 : 219 2900 14948 45234 93424 141139 161062 140407 93247 46464 16846 4201 645 46 0 : 0.002579 0.044506 65.549852 65.597358
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 506 51 1 F1stats = [ 219 0 0 0.012015 ] 0.002593 0.000189 0.015429
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 51 2436427 0.060457 0 0 0 0 0 1 1 100 2 : 219 2900 14948 45234 93424 141139 161062 140407 93247 46464 16846 4201 645 46 0 : 0.001840 0.101917 66.271236 66.375402
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 23 2 1 F1stats = [ 51 0 0 0.016715 ] 0.001597 0.000582 0.025222
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 185 19 1 F1stats = [ 51 0 0 0.000218 ] 0.000763 0.000121 0.001425
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 19 699297 0.017168 0 0 0 0 0 1 1 100 2 : 51 823 4652 14752 31192 47704 54832 48040 32032 16016 5824 1456 224 16 0 : 0.000549 0.014186 20.298348 20.313335
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 506 51 1 F1stats = [ 219 0 0 0.000707 ] 0.005182 0.000148 0.006637
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 51 2436427 0.058802 0 0 0 0 0 1 1 100 2 : 219 2900 14948 45234 93424 141139 161062 140407 93247 46464 16846 4201 645 46 0 : 0.001647 0.065469 68.744126 68.811669
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 185 19 1 F1stats = [ 51 0 0 0.000479 ] 0.008074 0.000161 0.009130
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 19 699297 0.018773 0 0 0 0 0 1 1 100 2 : 51 823 4652 14752 31192 47704 54832 48040 32032 16016 5824 1456 224 16 0 : 0.000473 0.008700 20.473041 20.482456
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 506 51 1 F1stats = [ 1 0 0 0.000547 ] 0.000529 0.000602 0.002048
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 51 1 0.000287 0 0 0 0 0 1 1 100 2 : 1 1 0 : 0.000425 0.000304 0.000363 0.001440
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 506 51 1 F1stats = [ 1 0 0 0.000298 ] 0.000386 0.000642 0.001685
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 51 1 0.000342 0 0 0 0 0 1 1 100 2 : 1 1 0 : 0.000418 0.000297 0.000423 0.001471
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 1012 101 1 F1stats = [ 1 0 0 0.000481 ] 0.000554 0.001212 0.003005
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 101 1 0.000313 0 0 0 0 0 1 1 100 2 : 1 1 0 : 0.000545 0.001537 0.000399 0.002895
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.000000 1012 1 1 F1stats = [ 12501 0 0 0.103125 ] 0.157979 0.000943 0.265132
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 1012 101 1 F1stats = [ 1 0 0 0.000454 ] 0.000420 0.001057 0.002265
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 101 1 0.000325 0 0 0 0 0 1 1 100 2 : 1 1 0 : 0.000553 0.000765 0.000418 0.002220
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 144 14 1 F1stats = [ 1 0 0 0.000453 ] 0.000388 0.001249 0.002461
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 14 1 0.000059 0 0 0 0 0 1 1 100 2 : 1 1 0 : 0.000489 0.000221 0.000110 0.001279
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.000000 144 1 1 F1stats = [ 12501 0 0 0.199051 ] 0.112165 0.000936 0.315230
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.000000 106 1 1 F1stats = [ 8911 0 0 0.078149 ] 0.109100 0.000862 0.190443
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.000000 106 1 1 F1stats = [ 1957 0 0 0.006911 ] 0.017002 0.000303 0.025061
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.010000 106 1 1 F1stats = [ 1957 0 0 0.050337 ] 0.029844 0.000347 0.082955
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 106 11 1 F1stats = [ 1245 0 0 0.021631 ] 0.019748 0.000293 0.042559
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 106 11 1 F1stats = [ 1245 0 0 0.002499 ] 0.017207 0.000267 0.020674
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 146 15 1 F1stats = [ 1 0 0 0.000106 ] 0.000168 0.000275 0.000860
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 15 1 0.000080 0 0 0 0 0 1 1 5 2 : 1 1 0 : 0.000136 0.000107 0.000113 0.000691
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.010000 146 1 1 F1stats = [ 1149 0 0 0.075794 ] 0.038958 0.000282 0.117403
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.050000 146 7 1 F1stats = [ 5 0 0 0.000128 ] 0.000193 0.000284 0.000869
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.050000 7 15 0.000158 0 0 0 0 0 1 1 5 2 : 5 7 2 0 : 0.000143 0.000128 0.000345 0.000903
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.005000 146 1 1 F1stats = [ 1149 0 0 0.011697 ] 0.007817 0.000410 0.021901
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.005000 146 1 1 F1stats = [ 2251 0 0 0.005997 ] 0.019555 0.000839 0.027769
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.010000 73 1 1 F1stats = [ 2251 0 0 0.016186 ] 0.014694 0.000358 0.034741
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.010000 73 1 1 F1stats = [ 551 0 0 0.007407 ] 0.006481 0.000252 0.014793
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.010000 8 1 1 F1stats = [ 223 0 0 0.006038 ] 0.005616 0.000427 0.012836
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.010000 1 86214 0.015352 0 0 0 0 0 1 1 5 2 : 223 1448 3363 4225 3271 1577 439 54 0 : 0.001417 0.027370 0.392319 0.421557
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.010000 8 1 1 F1stats = [ 223 0 0 0.006814 ] 0.001519 0.000222 0.026357
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.010000 1 86214 0.014801 0 0 0 0 0 1 1 100 2 : 223 1448 3363 4225 3271 1577 439 54 0 : 0.010914 0.058322 0.374736 0.444436
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.010000 1 1 1 F1stats = [ 33 0 0 0.008365 ] 0.000749 0.000494 0.011154
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.010000 1 1 1 F1stats = [ 33 0 0 0.000348 ] 0.000667 0.000321 0.002127
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.010000 1 75774 0.016552 0 0 0 0 0 1 1 100 1 : 33 288 1296 3660 7092 9876 10116 7677 4285 1716 468 78 6 0 : 0.000515 0.000832 0.997955 0.999618
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 33 0 0 0.000360 ] 0.000682 0.000208 0.003156
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 33 0 0 0.000170 ] 0.000990 0.000476 0.032362
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 999533 0.022736 0 0 0 0 0 1 1 3 2 : 33 881 9888 63700 220488 414692 0 : 0.000550 0.017457 16.289334 16.307636
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 1.000000 1 1 1 F1stats = [ 204 0 0 0.002752 ] 0.003609 0.002546 0.012979
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 1.000000 1 1 1 F1stats = [ 204 0 0 0.004734 ] 0.006541 0.203531 0.270843
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 1.000000 1 1 1 F1stats = [ 28 0 0 0.000168 ] 0.000604 0.007598 0.008922
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 1.000000 1 4698998 0.032720 0 0 0 0 0 1 1 3 2 : 28 994 16005 151926 784695 2227200 0 : 0.000538 0.001183 85.096905 85.099055
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 33 0 0 0.001905 ] 0.000297 0.000172 0.003002
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 999533 0.007935 0 0 0 0 0 1 1 3 2 : 33 881 9888 63700 220488 414692 0 : 0.000228 0.000720 6.950711 6.951875
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 1.000000 1 1 1 F1stats = [ 28 0 0 0.000170 ] 0.000325 0.000367 0.001174
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 1.000000 1 4698998 0.007308 0 0 0 0 0 1 1 3 2 : 28 994 16005 151926 784695 2227200 0 : 0.000418 0.001134 34.249074 34.250862
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 1.000000 1 1 1 F1stats = [ 129 0 0 0.005617 ] 0.000856 0.000244 0.020434
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 1.000000 1 1976056 0.021662 0 0 0 0 0 1 1 3 2 : 129 2803 25369 136915 413756 699676 0 : 0.000852 0.006453 15.650916 15.658586
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 33 0 0 0.031210 ] 0.000319 0.000116 0.032602
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 8950825 0.007111 0 0 0 0 0 1 1 4 2 : 33 881 9888 67360 315976 989096 2110084 2641049 0 : 0.000223 0.000710 65.428288 65.429415
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 1.000000 1 1 1 F1stats = [ 28 0 0 0.001663 ] 0.000495 0.000390 0.003476
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 1.000000 1 1 1 F1stats = [ 28 0 0 0.000071 ] 0.000248 0.000191 0.005502
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 1.000000 1 1 1 F1stats = [ 33 0 0 0.000168 ] 0.000379 0.000248 0.001226
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 1.000000 1 8950825 0.007406 0 0 0 0 0 1 1 4 2 : 33 881 9888 67360 315976 989096 2110084 2641049 0 : 0.000835 0.000797 64.142345 64.144204
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000166 ] 0.000847 0.000595 0.007188
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 10813050 0.007011 0 0 0 0 0 1 1 4 2 : 33 913 10560 74120 359336 1169656 2585996 3334891 0 : 0.000227 0.000827 81.231442 81.232740
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000276 ] 0.000338 0.000167 0.001322
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 10813050 0.008025 0 0 0 0 0 1 1 4 2 : 33 913 10560 74120 359336 1169656 2585996 3334891 0 : 0.000230 0.000826 83.140678 83.142014
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 28 0 0 0.000079 ] 0.000361 0.000252 0.024677
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 97077572 0.007837 0 0 0 0 0 1 1 4 2 : 28 994 16005 161896 1145289 5424345 17623080 34004880 0 : 0.000260 0.000735 737.640392 737.641650
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 3 1 1 F1stats = [ 129 0 0 0.005058 ] 0.000918 0.001321 0.008028
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 16157239 0.023202 0 0 0 0 0 1 1 4 2 : 129 2803 25369 145350 595958 1678633 3292159 3856685 0 : 0.000834 0.007006 141.109951 141.118151
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 3 2 1 F1stats = [ 33 0 0 0.010819 ] 0.001108 0.000193 0.047441
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 2 5955238 0.007065 0 0 0 0 0 1 1 4 2 : 33 881 9568 61440 263576 714416 1260444 1262789 0 : 0.000425 0.001024 42.043271 42.050101
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 3 2 1 F1stats = [ 28 0 0 0.000100 ] 0.000323 0.000281 0.005990
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.500000 2 97077572 0.011726 0 0 0 0 0 1 1 4 2 : 28 994 16005 161896 1145289 5424345 17623080 34004880 0 : 0.000254 0.000754 772.073250 772.074473
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.500000 3 2 1 F1stats = [ 129 0 0 0.000727 ] 0.000932 0.000267 0.002526
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.500000 2 16157239 0.024860 0 0 0 0 0 1 1 4 2 : 129 2803 25369 145350 595958 1678633 3292159 3856685 0 : 0.000804 0.015136 151.455060 151.471337
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 3 2 1 F1stats = [ 33 0 0 0.000117 ] 0.000517 0.000213 0.272810
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 2 5955238 0.007172 0 0 0 0 0 1 1 4 2 : 33 881 9568 61440 263576 714416 1260444 1262789 0 : 0.000655 0.001649 46.449751 46.458618
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 3 2 1 F1stats = [ 19 0 0 0.000192 ] 0.000460 0.000745 0.005796
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.500000 2 1825901 0.003890 0 0 0 0 0 1 1 4 2 : 19 421 3834 20756 76180 186360 305240 285735 0 : 0.000246 0.000393 13.423701 13.424555
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.500000 3 2 1 F1stats = [ 129 0 0 0.000440 ] 0.001647 0.001399 0.013000
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.500000 2 16157239 0.023577 0 0 0 0 0 1 1 4 2 : 129 2803 25369 145350 595958 1678633 3292159 3856685 0 : 0.000802 0.011657 187.503303 187.516090
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 3 2 1 F1stats = [ 19 0 0 0.000053 ] 0.000273 0.002422 0.003266
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.500000 2 21111930 0.003518 0 0 0 0 0 1 1 8 2 : 19 421 3834 20756 77687 217240 473936 827053 1171126 1354806 1281096 982548 599508 280044 92664 17658 0 : 0.000202 0.000398 114.983733 114.984634
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 3 2 1 F1stats = [ 19 0 0 0.000164 ] 0.000387 0.000336 0.014473
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.500000 2 21850955 0.003576 0 0 0 0 0 1 1 100 2 : 19 421 3834 20756 77687 217240 473936 827053 1171218 1356490 1288872 1003782 637704 327420 133824 42534 10134 1703 180 9 0 : 0.000199 0.000454 115.815501 115.816486
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 3 2 1 F1stats = [ 33 0 0 0.000090 ] 0.000403 0.000188 0.001033
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 2 120394939 0.006820 0 0 0 0 0 1 1 100 2 : 33 881 9568 61440 270668 883716 2237988 4524510 7440845 10077353 11325392 10603515 8276276 5371835 2882112 1265208 447300 124334 26180 3927 374 17 0 : 0.000281 0.000824 908.395255 908.396590
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 3 2 1 F1stats = [ 19 0 0 0.000418 ] 0.000334 0.000757 0.013603
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.500000 2 21850955 0.003378 0 0 0 0 0 1 1 100 2 : 19 421 3834 20756 77687 217240 473936 827053 1171218 1356490 1288872 1003782 637704 327420 133824 42534 10134 1703 180 9 0 : 0.000236 0.000403 100.711048 100.711921
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.500000 3 2 1 F1stats = [ 129 0 0 0.007240 ] 0.000944 0.000281 0.009256
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 3 2 1 F1stats = [ 97 0 0 0.001792 ] 0.001015 0.000414 0.003884
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 2 27624050 0.021026 0 0 0 0 0 1 1 100 2 : 97 2134 16431 71740 212231 465044 792472 1078253 1186492 1060164 767416 446446 205772 73450 19584 3672 432 24 0 : 0.000608 0.005178 151.784789 151.790864
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 3 2 1 F1stats = [ 97 0 0 0.004581 ] 0.000786 0.000178 0.006212
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 2 27624050 0.022394 0 0 0 0 0 1 1 100 2 : 97 2134 16431 71740 212231 465044 792472 1078253 1186492 1060164 767416 446446 205772 73450 19584 3672 432 24 0 : 0.000932 0.005798 140.086336 140.127229
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 3 2 1 F1stats = [ 33 0 0 0.029437 ] 0.000403 0.000287 0.031043
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 2 21162 0.003033 0 0 0 0 0 1 1 100 2 : 33 331 1185 2214 2494 1818 888 291 60 6 0 : 0.006508 0.001141 0.174788 0.188227
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 3 2 1 F1stats = [ 33 0 0 0.000087 ] 0.000297 0.000236 0.001148
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 2 21162 0.003749 0 0 0 0 0 1 1 100 2 : 33 331 1185 2214 2494 1818 888 291 60 6 0 : 0.000318 0.001670 0.282635 0.284956
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 3 2 1 F1stats = [ 17 0 0 0.002127 ] 0.000320 0.012773 0.015490
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.500000 2 27185 0.002091 0 0 0 0 0 1 1 100 2 : 17 223 770 1547 2003 1748 1033 398 90 9 0 : 0.000236 0.000377 0.125430 0.152308
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.500000 3 2 1 F1stats = [ 11 0 0 0.000029 ] 0.000466 0.000186 0.000905
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.500000 2 3449 0.000878 0 0 0 0 0 1 1 100 2 : 11 100 331 574 598 399 176 52 10 1 0 : 0.000140 0.000178 0.034488 0.035018
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 3 2 1 F1stats = [ 33 0 0 0.000085 ] 0.000330 0.000271 0.001011
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 2 21162 0.003152 0 0 0 0 0 1 1 100 2 : 33 331 1185 2214 2494 1818 888 291 60 6 0 : 0.000408 0.000723 0.130951 0.132328
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 3 2 1 F1stats = [ 17 0 0 0.000057 ] 0.000576 0.000713 0.001651
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.500000 2 27185 0.001722 0 0 0 0 0 1 1 100 2 : 17 223 770 1547 2003 1748 1033 398 90 9 0 : 0.000196 0.000283 0.080217 0.080922
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.500000 3 2 1 F1stats = [ 11 0 0 0.000029 ] 0.000193 0.000188 0.000636
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.500000 2 3449 0.000857 0 0 0 0 0 1 1 100 2 : 11 100 331 574 598 399 176 52 10 1 0 : 0.000099 0.000175 0.022482 0.022963
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 6 3 1 F1stats = [ 33 0 0 0.000239 ] 0.012428 0.003506 0.024309
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 3 27858 0.008263 0 0 0 0 0 1 1 100 2 : 33 367 1413 2847 3502 2826 1536 552 120 12 0 : 0.000304 0.002059 0.294475 0.297435
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 6 3 1 F1stats = [ 20 0 0 0.000068 ] 0.000459 0.000692 0.001717
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.500000 3 2241457 0.002831 0 0 0 0 0 1 1 100 2 : 20 342 2159 9403 29475 68574 121443 166761 179538 152181 101289 52410 20677 6015 1217 153 9 0 : 0.000222 0.000414 11.416784 11.417665
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.500000 7 4 1 F1stats = [ 11 0 0 0.000037 ] 0.000177 0.000180 0.000625
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.500000 4 3449 0.001064 0 0 0 0 0 1 1 100 2 : 11 100 331 574 598 399 176 52 10 1 0 : 0.000107 0.000291 0.063351 0.063970
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 6 3 1 F1stats = [ 33 0 0 0.003953 ] 0.002188 0.002498 0.009737
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 3 27858 0.004106 0 0 0 0 0 1 1 100 2 : 33 367 1413 2847 3502 2826 1536 552 120 12 0 : 0.000308 0.000836 0.303588 0.305009
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 6 3 1 F1stats = [ 20 0 0 0.002268 ] 0.000277 0.000434 0.004241
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.500000 3 2241457 0.002968 0 0 0 0 0 1 1 100 2 : 20 342 2159 9403 29475 68574 121443 166761 179538 152181 101289 52410 20677 6015 1217 153 9 0 : 0.000213 0.000489 11.269256 11.270189
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.500000 7 4 1 F1stats = [ 11 0 0 0.000093 ] 0.000224 0.000235 0.008267
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.500000 4 3449 0.001382 0 0 0 0 0 1 1 100 2 : 11 100 331 574 598 399 176 52 10 1 0 : 0.000105 0.000291 0.095202 0.095797
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.500000 0 1 1 F1stats = [ 0 0 0 0.000106 ] 0.000000 0.000000 0.002580
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.500000 3 2 1 F1stats = [ 33 0 0 0.003077 ] 0.001594 0.000592 0.006397
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.500000 2 21162 0.005398 0 0 0 0 0 1 1 100 2 : 33 331 1185 2214 2494 1818 888 291 60 6 0 : 0.000295 0.000706 0.139569 0.140835
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.500000 3 2 1 F1stats = [ 17 0 0 0.000056 ] 0.000572 0.000290 0.001176
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.500000 2 27185 0.002918 0 0 0 0 0 1 1 100 2 : 17 223 770 1547 2003 1748 1033 398 90 9 0 : 0.000196 0.000278 0.081790 0.082476
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.500000 3 2 1 F1stats = [ 11 0 0 0.000031 ] 0.000209 0.000721 0.001201
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.500000 2 3449 0.000903 0 0 0 0 0 1 1 100 2 : 11 100 331 574 598 399 176 52 10 1 0 : 0.000109 0.000205 0.035585 0.037761
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.500000 10 5 1 F1stats = [ 31 0 0 0.002025 ] 0.000375 0.000962 0.003931
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.500000 5 5016 0.002776 0 0 0 0 0 1 1 100 2 : 31 180 408 503 378 176 48 6 0 : 0.000875 0.002166 0.086179 0.089482
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000081 ] 0.000284 0.000220 0.000851
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.003486 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000749 0.000748 0.273511 0.275313
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000225 ] 0.000934 0.001082 0.003418
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.005079 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000272 0.000568 24.003837 24.005030
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 3 1 1 F1stats = [ 11 0 0 0.000031 ] 0.000553 0.000132 0.000957
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 7652 0.001108 0 0 0 0 0 1 1 100 2 : 11 128 519 1125 1518 1355 808 311 70 7 0 : 0.000099 0.000181 0.083136 0.083660
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 67 0 0 0.017408 ] 0.000558 0.000273 0.021291
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 5557737 0.009848 0 0 0 0 0 1 1 100 2 : 67 1163 7540 29161 80423 169213 279104 364977 379974 314759 206310 105729 41488 12039 2434 306 18 0 : 0.000562 0.002510 30.511256 30.514672
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000164 ] 0.000345 0.000254 0.001043
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.003585 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000295 0.000709 0.446544 0.447792
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000218 ] 0.001679 0.001330 0.003869
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.005004 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000352 0.000599 23.357560 23.358765
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 3 1 1 F1stats = [ 11 0 0 0.001080 ] 0.000350 0.000364 0.002933
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 7652 0.001146 0 0 0 0 0 1 1 100 2 : 11 128 519 1125 1518 1355 808 311 70 7 0 : 0.002513 0.000180 0.122911 0.144626
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 67 0 0 0.000141 ] 0.000606 0.000223 0.001263
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 5557737 0.013729 0 0 0 0 0 1 1 100 2 : 67 1163 7540 29161 80423 169213 279104 364977 379974 314759 206310 105729 41488 12039 2434 306 18 0 : 0.000493 0.002092 28.256863 28.259741
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000089 ] 0.000297 0.000227 0.001142
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.005975 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000496 0.001001 0.454160 0.457526
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.002327 ] 0.000254 0.000241 0.006055
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.012585 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000411 0.000574 25.635888 25.637125
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 3 1 1 F1stats = [ 11 0 0 0.001271 ] 0.000268 0.000320 0.002744
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 7652 0.001545 0 0 0 0 0 1 1 100 2 : 11 128 519 1125 1518 1355 808 311 70 7 0 : 0.000096 0.000181 0.143675 0.144141
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 67 0 0 0.003489 ] 0.000556 0.000261 0.005005
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 5557737 0.011527 0 0 0 0 0 1 1 100 2 : 67 1163 7540 29161 80423 169213 279104 364977 379974 314759 206310 105729 41488 12039 2434 306 18 0 : 0.000499 0.002179 31.167860 31.170880
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000086 ] 0.000309 0.000240 0.040702
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.007158 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000299 0.000823 0.458285 0.459681
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000071 ] 0.001107 0.000228 0.001740
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000115 ] 0.001020 0.000311 0.001734
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.007542 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000299 0.001384 0.416242 0.418234
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000180
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000207
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000195
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000185
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000074 ] 0.000311 0.000284 0.000926
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.005340 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000259 0.000673 25.025010 25.026173
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000176 ] 0.000000 0.000000 0.010179
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000233
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.001683
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000074 ] 0.000295 0.000305 0.000946
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.005019 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000253 0.000572 24.435148 24.436211
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000099 ] 0.000000 0.000000 0.003718
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.002283
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000085 ] 0.000336 0.000294 0.000968
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.005374 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000292 0.000842 0.366665 0.368048
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000014 ] 0.000000 0.000000 0.004194
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000182
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000563
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000082 ] 0.000474 0.000313 0.001669
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.009626 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000298 0.000711 0.374472 0.375735
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000182
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.001071
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000244
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000201
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000121 ] 0.000000 0.000000 0.004201
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000202
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000195
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000194 ] 0.000341 0.000315 0.001133
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.016071 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000299 0.000716 0.380312 0.381586
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000095 ] 0.000000 0.000000 0.000650
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000095 ] 0.000000 0.000000 0.000643
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000186
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000181
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000072 ] 0.000337 0.000350 0.001079
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.005258 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000254 0.000566 27.733379 27.734443
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.001311
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.002792
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000114 ] 0.000000 0.000000 0.000709
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.007757 ] 0.000375 0.000371 0.008845
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.005236 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000265 0.000595 28.552368 28.553700
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000229
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000185
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000173
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000112 ] 0.000783 0.000514 0.003086
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.005225 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000329 0.000572 32.648939 32.650129
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000009 ] 0.000000 0.000000 0.022240
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000094 ] 0.000000 0.000000 0.000680
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000013 ] 0.000000 0.000000 0.048204
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000077 ] 0.000384 0.000299 0.043938
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.005242 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000640 0.000592 28.661995 28.713799
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000096 ] 0.000000 0.000000 0.000746
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000217 ] 0.000000 0.000000 0.000502
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000187
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000298 ] 0.000273 0.000280 0.001088
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.005104 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000253 0.000561 28.796793 28.797840
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.009752 ] 0.000000 0.000000 0.033017
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000095 ] 0.000000 0.000000 0.000672
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000084 ] 0.000328 0.000301 0.001155
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.004256 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000333 0.000711 0.312905 0.314211
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.000720
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000186
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000100 ] 0.000000 0.000000 0.000691
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000163 ] 0.000380 0.000299 0.001160
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.003581 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000790 0.000992 0.276560 0.278611
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000185 ] 0.000000 0.000000 0.000363
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000165
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000051 ] 0.000000 0.000000 0.002913
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000236
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000071 ] 0.000364 0.000294 0.000989
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.007560 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000404 0.006009 27.616053 27.622773
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000094 ] 0.000000 0.000000 0.000662
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000110 ] 0.000000 0.000000 0.000689
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.000227 ] 0.000387 0.000411 0.001491
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.005322 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000309 0.000738 0.369316 0.370704
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000273
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000261
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000009 ] 0.000000 0.000000 0.000913
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000203
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000181
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 3 1 1 F1stats = [ 11 0 0 0.000030 ] 0.000218 0.000223 0.000676
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 7652 0.001222 0 0 0 0 0 1 1 100 2 : 11 128 519 1125 1518 1355 808 311 70 7 0 : 0.000097 0.000178 0.106002 0.106455
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000208
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.007591
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 27 0 0 0.000073 ] 0.000363 0.000283 0.000987
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5458849 0.005674 0 0 0 0 0 1 1 100 2 : 27 643 5328 24210 73580 162992 275344 363517 379644 314726 206310 105729 41488 12039 2434 306 18 0 : 0.000250 0.000564 26.232755 26.233812
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000758 ] 0.000000 0.000000 0.010453
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.001572
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000009 ] 0.000000 0.000000 0.000403
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 32 0 0 0.000079 ] 0.000405 0.000301 0.001047
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 6167801 0.004748 0 0 0 0 0 1 1 100 2 : 32 585 3855 15421 43866 95412 165180 233268 272930 267040 219413 151334 87171 41497 16049 4913 1144 190 20 1 0 : 0.000282 0.000655 25.786274 25.787460
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000273
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000318
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000182 ] 0.000000 0.000000 0.013801
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 32 0 0 0.000090 ] 0.000420 0.000288 0.029450
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 6167801 0.004787 0 0 0 0 0 1 1 100 2 : 32 585 3855 15421 43866 95412 165180 233268 272930 267040 219413 151334 87171 41497 16049 4913 1144 190 20 1 0 : 0.000288 0.000709 20.573938 20.575191
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000281
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000226
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000172
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 32 0 0 0.000082 ] 0.000389 0.000285 0.001061
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 6167801 0.004857 0 0 0 0 0 1 1 100 2 : 32 585 3855 15421 43866 95412 165180 233268 272930 267040 219413 151334 87171 41497 16049 4913 1144 190 20 1 0 : 0.000291 0.000640 26.545779 26.546967
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000051 ] 0.000000 0.000000 0.020328
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000095 ] 0.000000 0.000000 0.000665
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000208
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 32 0 0 0.000079 ] 0.000325 0.000313 0.001006
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 6167801 0.005461 0 0 0 0 0 1 1 100 2 : 32 585 3855 15421 43866 95412 165180 233268 272930 267040 219413 151334 87171 41497 16049 4913 1144 190 20 1 0 : 0.000289 0.000650 19.589015 19.590246
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000099 ] 0.000000 0.000000 0.017177
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000460 ] 0.000000 0.000000 0.001099
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.006417
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 14 0 0 0.000047 ] 0.000503 0.000255 0.001036
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 7852971 0.001935 0 0 0 0 0 1 1 100 2 : 14 238 1920 9822 35808 98886 214320 372489 525952 607747 576368 448188 284376 145860 59568 18921 4506 757 80 4 0 : 0.000170 0.000232 42.052249 42.052907
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000347 ] 0.000000 0.000000 0.000634
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000216
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000013 ] 0.000000 0.000000 0.006077
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 14 0 0 0.000044 ] 0.000214 0.000257 0.000759
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 7852971 0.003088 0 0 0 0 0 1 1 100 2 : 14 238 1920 9822 35808 98886 214320 372489 525952 607747 576368 448188 284376 145860 59568 18921 4506 757 80 4 0 : 0.000168 0.000234 44.027427 44.028089
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000098 ] 0.000000 0.000000 0.000788
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000297
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000122 ] 0.000000 0.000000 0.002452
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 14 0 0 0.000044 ] 0.000214 0.000238 0.000736
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 7852971 0.002073 0 0 0 0 0 1 1 100 2 : 14 238 1920 9822 35808 98886 214320 372489 525952 607747 576368 448188 284376 145860 59568 18921 4506 757 80 4 0 : 0.002916 0.000419 43.312276 43.315879
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000041 ] 0.000000 0.000000 0.003805
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000093 ] 0.000000 0.000000 0.000636
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000020 ] 0.000000 0.000000 0.006285
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 14 0 0 0.000044 ] 0.000544 0.000270 0.001101
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000181
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 14 0 0 0.000047 ] 0.000227 0.000254 0.000753
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 7852971 0.001897 0 0 0 0 0 1 1 100 2 : 14 238 1920 9822 35808 98886 214320 372489 525952 607747 576368 448188 284376 145860 59568 18921 4506 757 80 4 0 : 0.000160 0.000231 44.709119 44.709752
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.002128
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000342
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000015 ] 0.000000 0.000000 0.007243
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 14 0 0 0.000046 ] 0.001070 0.000300 0.001702
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 7852971 0.002243 0 0 0 0 0 1 1 100 2 : 14 238 1920 9822 35808 98886 214320 372489 525952 607747 576368 448188 284376 145860 59568 18921 4506 757 80 4 0 : 0.012238 0.000292 51.442039 51.454933
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.011787
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000275
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 3 1 1 F1stats = [ 33 0 0 0.001231 ] 0.000399 0.000343 0.002691
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.003632 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000306 0.001049 0.384645 0.386304
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000029 ] 0.000000 0.000000 0.011641
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000210
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000220
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000252
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000179
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 3 1 1 F1stats = [ 11 0 0 0.000058 ] 0.000201 0.000192 0.000670
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 7652 0.001078 0 0 0 0 0 1 1 100 2 : 11 128 519 1125 1518 1355 808 311 70 7 0 : 0.000097 0.000186 0.114601 0.115101
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000205
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 1 1 1 F1stats = [ 31 0 0 0.000079 ] 0.020958 0.000288 0.021629
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 8556 0.002456 0 0 0 0 0 1 1 100 2 : 31 232 716 1300 1562 1288 728 271 60 6 0 : 0.000289 0.000493 0.148820 0.149883
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000005 ] 0.000000 0.000000 0.000212
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000221
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000251
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 1 1 1 F1stats = [ 31 0 0 0.000077 ] 0.000836 0.006137 0.007941
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 8556 0.002210 0 0 0 0 0 1 1 100 2 : 31 232 716 1300 1562 1288 728 271 60 6 0 : 0.000312 0.000496 0.192953 0.194152
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000287
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000022 ] 0.000000 0.000000 0.023653
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000238
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 1 1 1 F1stats = [ 31 0 0 0.000079 ] 0.000336 0.000299 0.004388
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 8556 0.003296 0 0 0 0 0 1 1 100 2 : 31 232 716 1300 1562 1288 728 271 60 6 0 : 0.000278 0.000488 0.162603 0.163613
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000219
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000229
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.000295
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000017 ] 0.000000 0.000000 0.014129
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 14 0 0 0.000051 ] 0.000239 0.000658 0.011722
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 7852971 0.001979 0 0 0 0 0 1 1 100 2 : 14 238 1920 9822 35808 98886 214320 372489 525952 607747 576368 448188 284376 145860 59568 18921 4506 757 80 4 0 : 0.000163 0.000229 44.883952 44.884623
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.003495 ] 0.000000 0.000000 0.020884
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000264
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000019 ] 0.000000 0.000000 0.001141
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 14 0 0 0.004171 ] 0.000247 0.000323 0.009353
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 7852971 0.001943 0 0 0 0 0 1 1 100 2 : 14 238 1920 9822 35808 98886 214320 372489 525952 607747 576368 448188 284376 145860 59568 18921 4506 757 80 4 0 : 0.000216 0.000236 45.125027 45.125747
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.006862
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000009 ] 0.000000 0.000000 0.028488
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.034615
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 39 0 0 0.003690 ] 0.000451 0.000342 0.004801
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 10629417 0.008991 0 0 0 0 0 1 1 100 2 : 39 796 5759 24470 72482 162325 287725 415010 495471 494344 413770 290213 169569 81633 31826 9792 2286 380 40 2 0 : 0.000384 0.001264 43.333125 43.335434
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.024761
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000272
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000224
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 3 1 1 F1stats = [ 25 0 0 0.000066 ] 0.004838 0.000268 0.005456
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 23996741 0.006057 0 0 0 0 0 1 1 100 2 : 25 628 5792 30438 109016 289994 601201 999376 1354485 1510402 1390692 1056289 658389 333435 135041 42687 10143 1703 180 9 0 : 0.000237 0.000599 126.961536 126.962632
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000034 ] 0.000000 0.000000 0.013186
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000095 ] 0.000000 0.000000 0.000714
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.003432
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 5 1 1 F1stats = [ 19 0 0 0.000065 ] 0.000295 0.000277 0.000904
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 21850955 0.004060 0 0 0 0 0 1 1 100 2 : 19 421 3834 20756 77687 217240 473936 827053 1171218 1356490 1288872 1003782 637704 327420 133824 42534 10134 1703 180 9 0 : 0.000204 0.000464 112.814460 112.815499
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000021 ] 0.000000 0.000000 0.028852
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000191
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000196
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000518 ] 0.011761 0.000834 0.014188
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 23996741 0.006125 0 0 0 0 0 1 1 100 2 : 25 628 5792 30438 109016 289994 601201 999376 1354485 1510402 1390692 1056289 658389 333435 135041 42687 10143 1703 180 9 0 : 0.000243 0.000796 153.556741 153.558024
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.013043
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000277
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000362
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000078 ] 0.000555 0.000430 0.001600
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000213
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000082 ] 0.000424 0.000312 0.001140
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 23996741 0.007078 0 0 0 0 0 1 1 100 2 : 25 628 5792 30438 109016 289994 601201 999376 1354485 1510402 1390692 1056289 658389 333435 135041 42687 10143 1703 180 9 0 : 0.000250 0.000829 198.764958 198.766325
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000209
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000259
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000109 ] 0.000442 0.000388 0.011879
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.005741 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000305 0.001049 1.722578 1.724178
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000212
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000241
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000205
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000370
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000423
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000038 ] 0.000212 0.000180 0.000656
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 7652 0.004097 0 0 0 0 0 1 1 100 2 : 11 128 519 1125 1518 1355 808 311 70 7 0 : 0.000170 0.000292 0.360508 0.411800
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000206
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000096 ] 0.000000 0.000000 0.000662
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000285
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000035 ] 0.000209 0.000187 0.000673
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 7652 0.001336 0 0 0 0 0 1 1 100 2 : 11 128 519 1125 1518 1355 808 311 70 7 0 : 0.000105 0.000258 0.164736 0.165597
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000220
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000339
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000415
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 21 0 0 0.000055 ] 0.000391 0.000246 0.000968
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2680521 0.004541 0 0 0 0 0 1 1 100 2 : 21 459 3654 16969 54023 127154 230424 329007 374942 343057 252044 147875 68446 24473 6528 1224 144 8 0 : 0.000199 0.004498 42.530849 42.535812
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.023801
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000203
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000219
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 21 0 0 0.000066 ] 0.000324 0.000222 0.006371
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2680521 0.012958 0 0 0 0 0 1 1 100 2 : 21 459 3654 16969 54023 127154 230424 329007 374942 343057 252044 147875 68446 24473 6528 1224 144 8 0 : 0.000176 0.000768 42.032288 42.033455
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.001224 ] 0.000000 0.000000 0.006360
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000187
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000189
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 21 0 0 0.000222 ] 0.000578 0.000143 0.002781
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 3033041 0.005227 0 0 0 0 0 1 1 100 2 : 21 491 4006 18833 60343 142506 258696 369717 421550 385813 283504 166348 77000 27532 7344 1377 162 9 0 : 0.000170 0.001326 41.458681 41.460430
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.013948
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000012 ] 0.000000 0.000000 0.008326
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000245
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 21 0 0 0.000053 ] 0.000356 0.000260 0.000902
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 3033041 0.005476 0 0 0 0 0 1 1 100 2 : 21 491 4006 18833 60343 142506 258696 369717 421550 385813 283504 166348 77000 27532 7344 1377 162 9 0 : 0.001981 0.001070 38.823134 38.826454
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000306
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000015 ] 0.000000 0.000000 0.012014
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000193
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 21 0 0 0.000064 ] 0.000297 0.000223 0.000828
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 3033041 0.005276 0 0 0 0 0 1 1 100 2 : 21 491 4006 18833 60343 142506 258696 369717 421550 385813 283504 166348 77000 27532 7344 1377 162 9 0 : 0.000186 0.000777 59.762682 59.763858
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000098 ] 0.000000 0.000000 0.001489
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000009 ] 0.000000 0.000000 0.034318
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000199
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 21 0 0 0.000059 ] 0.000318 0.000208 0.055248
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 3033041 0.005473 0 0 0 0 0 1 1 100 2 : 21 491 4006 18833 60343 142506 258696 369717 421550 385813 283504 166348 77000 27532 7344 1377 162 9 0 : 0.000174 0.000831 40.630941 40.632514
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000423 ] 0.000000 0.000000 0.005189
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.158818
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.065834
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 21 0 0 0.000069 ] 0.001409 0.000215 0.002020
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2701501 0.006329 0 0 0 0 0 1 1 100 2 : 21 475 3798 17565 55527 129738 233616 331920 376924 344056 252408 147966 68460 24474 6528 1224 144 8 0 : 0.000184 0.000928 49.052502 49.054535
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000133 ] 0.000000 0.000000 0.012816
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000188
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000288
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 21 0 0 0.000077 ] 0.000398 0.000230 0.001029
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2327961 0.005750 0 0 0 0 0 1 1 100 2 : 21 411 3222 14925 47463 111594 202032 288252 328324 300300 220584 129402 59892 21414 5712 1071 126 7 0 : 0.000194 0.000640 35.187200 35.190698
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000103 ] 0.000000 0.000000 0.005844
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.050981
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.219703
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 69 0 0 0.000138 ] 0.000845 0.003363 0.004800
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 15039823 0.011242 0 0 0 0 0 1 1 100 2 : 69 1051 7152 31500 102027 258389 530100 900747 1285839 1555554 1601730 1404663 1046247 657900 345984 150144 52776 14636 3080 462 44 2 0 : 0.000638 0.003090 206.193784 206.198425
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000091 ] 0.000000 0.000000 0.044319
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000012 ] 0.000000 0.000000 0.002432
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.006276
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 631 0 0 0.014188 ] 0.004107 0.000292 0.019246
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000104 ] 0.000000 0.000000 0.000723
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000107 ] 0.000000 0.000000 0.000771
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000034 ] 0.000236 0.000279 0.000848
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 4090 0.000920 0 0 0 0 0 1 1 100 2 : 11 94 328 640 791 655 368 136 30 3 0 : 0.000105 0.000288 0.043731 0.044370
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000200
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000194
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000209
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 131 0 0 0.000310 ] 0.001262 0.002044 0.004052
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000100 ] 0.000833 0.000372 0.001692
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.005004 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000326 0.001078 0.602861 0.604625
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000556
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000102 ] 0.000000 0.000000 0.000762
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.000588
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000186
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000190
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 21 0 0 0.000060 ] 0.000471 0.000202 0.000984
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2348981 0.016136 0 0 0 0 0 1 1 100 2 : 21 443 3446 15701 49207 114386 205344 291210 330316 301300 220948 129493 59906 21415 5712 1071 126 7 0 : 0.000177 0.000854 47.183870 47.185126
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000104 ] 0.000000 0.000000 0.009573
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000744
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000188
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 65 0 0 0.000196 ] 0.001488 0.009655 0.011779
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000040 ] 0.000000 0.000000 0.007713
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000013 ] 0.000000 0.000000 0.009585
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000129 ] 0.000559 0.011630 0.012610
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 35579 0.009735 0 0 0 0 0 1 1 100 2 : 33 389 1584 3429 4607 4093 2432 934 210 21 0 : 0.000364 0.002867 0.938772 0.942347
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000388
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000179
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000226
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000123 ] 0.000824 0.008757 0.009990
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 35579 0.005302 0 0 0 0 0 1 1 100 2 : 33 389 1584 3429 4607 4093 2432 934 210 21 0 : 0.000337 0.010678 0.528399 0.539687
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000041 ] 0.000000 0.000000 0.000260
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000010 ] 0.000000 0.000000 0.000241
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000274
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000071 ] 0.000336 0.000239 0.000924
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 14993 0.011308 0 0 0 0 0 1 1 100 2 : 17 189 752 1613 2165 1930 1152 444 100 10 0 : 0.000277 0.000788 0.450154 0.451469
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000294
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000192
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000190
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000130 ] 0.000892 0.002816 0.004226
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 35579 0.006159 0 0 0 0 0 1 1 100 2 : 33 389 1584 3429 4607 4093 2432 934 210 21 0 : 0.000339 0.002521 1.202000 1.205423
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000059 ] 0.000000 0.000000 0.000707
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.000464
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000171
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 47 0 0 0.000138 ] 0.000625 0.000336 0.001416
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 41810 0.006099 0 0 0 0 0 1 1 100 2 : 47 508 1906 3842 4887 4191 2446 934 210 21 0 : 0.000410 0.002401 0.607112 0.610212
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000010 ] 0.000000 0.000000 0.003494
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000198
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.001361
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000061 ] 0.000253 0.000192 0.000739
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.003686 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000158 0.002842 0.056001 0.059267
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000195
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000198 ] 0.000862 0.000473 0.012093
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.009034 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000635 0.001744 0.654811 0.657573
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000265 ] 0.000000 0.000000 0.004712
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000016 ] 0.000000 0.000000 0.006762
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000014 ] 0.000000 0.000000 0.000443
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000101 ] 0.003065 0.000302 0.014410
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.004384 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000316 0.001213 0.431052 0.432855
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000098 ] 0.000000 0.000000 0.000721
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000205
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000190
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000273
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000073 ] 0.000357 0.000359 0.001089
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.000207
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000076 ] 0.000667 0.000263 0.001249
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 23996741 0.006054 0 0 0 0 0 1 1 100 2 : 25 628 5792 30438 109016 289994 601201 999376 1354485 1510402 1390692 1056289 658389 333435 135041 42687 10143 1703 180 9 0 : 0.000243 0.000756 144.880573 144.881800
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000111 ] 0.000000 0.000000 0.002481
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000195
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000304
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000219
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000056 ] 0.000348 0.000596 0.001309
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.002128 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000203 0.001288 0.092376 0.094148
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.001061 ] 0.000000 0.000000 0.001253
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000010 ] 0.000000 0.000000 0.005307
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000234
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000191
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 100 10 1 F1stats = [ 71 0 0 0.004594 ] 0.001193 0.000344 0.006509
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.004217
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000223
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000007 ] 0.000000 0.000000 0.000281
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 71 0 0 0.000161 ] 0.000867 0.000919 0.002350
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 24097115 0.010204 0 0 0 0 0 1 1 100 2 : 71 1183 7986 35036 115043 295271 604319 1000574 1354755 1510429 1390692 1056289 658389 333435 135041 42687 10143 1703 180 9 0 : 0.000616 0.002483 149.994271 149.997650
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000095 ] 0.000506 0.000453 0.001371
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.004704 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000319 0.005916 0.578530 0.585000
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000009 ] 0.000000 0.000000 0.001114
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000008 ] 0.000000 0.000000 0.000395
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000006 ] 0.000000 0.000000 0.000198
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 0 0.000000 0 0 0 0 0 1 1 100 2 : 0 0 : 0.000015 0.000010 0.000000 0.000626
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000018 ] 0.000000 0.000000 0.018313
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 19 0 0 0.004122 ] 0.000305 0.000324 0.021214
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000096 ] 0.000337 0.000238 0.004119
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.012976 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000331 0.000993 0.450379 0.452013
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000097 ] 0.000790 0.002083 0.003660
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.004440 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000306 0.001052 0.542770 0.544382
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000064 ] 0.000319 0.000246 0.014443
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.001865 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000183 0.000629 0.054473 0.055530
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000194 ] 0.000331 0.000299 0.047162
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 23996741 0.006139 0 0 0 0 0 1 1 100 2 : 25 628 5792 30438 109016 289994 601201 999376 1354485 1510402 1390692 1056289 658389 333435 135041 42687 10143 1703 180 9 0 : 0.000805 0.003492 137.961850 137.966829
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000343 ] 0.001062 0.000219 0.022949
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 23996741 0.006771 0 0 0 0 0 1 1 100 2 : 25 628 5792 30438 109016 289994 601201 999376 1354485 1510402 1390692 1056289 658389 333435 135041 42687 10143 1703 180 9 0 : 0.000472 0.001240 148.994877 149.041363
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000074 ] 0.000281 0.000186 0.000815
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 23996741 0.005851 0 0 0 0 0 1 1 100 2 : 25 628 5792 30438 109016 289994 601201 999376 1354485 1510402 1390692 1056289 658389 333435 135041 42687 10143 1703 180 9 0 : 0.000249 0.000741 152.689981 152.691222
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 24 0 0 0.000071 ] 0.023288 0.007532 0.031227
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 4857035 0.007989 0 0 0 0 0 1 1 100 2 : 24 554 4536 20957 65296 148490 256876 345915 366985 307919 203649 105014 41370 12030 2434 306 18 0 : 0.000282 0.002159 35.560157 35.562927
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000077 ] 0.000263 0.000174 0.022578
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 23996741 0.005918 0 0 0 0 0 1 1 100 2 : 25 628 5792 30438 109016 289994 601201 999376 1354485 1510402 1390692 1056289 658389 333435 135041 42687 10143 1703 180 9 0 : 0.000245 0.000780 142.349312 142.350587
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000645 ] 0.000346 0.000212 0.004773
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5121172 0.005146 0 0 0 0 0 1 1 100 2 : 25 564 4601 21278 66132 149803 258202 346786 367346 308005 203658 105014 41370 12030 2434 306 18 0 : 0.000251 0.000730 29.732823 29.734065
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000077 ] 0.000364 0.000211 0.000899
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5121172 0.005620 0 0 0 0 0 1 1 100 2 : 25 564 4601 21278 66132 149803 258202 346786 367346 308005 203658 105014 41370 12030 2434 306 18 0 : 0.000269 0.000711 33.900127 33.901365
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 25 0 0 0.000072 ] 0.000283 0.000199 0.001867
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 5121172 0.005130 0 0 0 0 0 1 1 100 2 : 25 564 4601 21278 66132 149803 258202 346786 367346 308005 203658 105014 41370 12030 2434 306 18 0 : 0.000537 0.000704 31.250675 31.456846
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.001168 ] 0.000315 0.000459 0.006337
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.001491 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000171 0.000270 1.302262 1.303098
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000049 ] 0.000181 0.000223 0.000675
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.001557 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000167 0.000258 5.613762 5.614910
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 33 0 0 0.000102 ] 0.000410 0.000304 0.001281
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 45287 0.033302 0 0 0 0 0 1 1 100 2 : 33 433 1892 4348 6149 5694 3488 1366 310 31 0 : 0.000303 0.000995 0.829019 0.830570
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000058 ] 0.001516 0.000148 0.002020
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.014678 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000152 0.000668 0.121898 0.122920
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000042 ] 0.000207 0.000100 0.000591
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.012824 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000136 0.000356 0.037709 0.038438
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000057 ] 0.000254 0.000154 0.000736
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.001712 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000150 0.000638 0.083023 0.084066
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000068 ] 0.000288 0.000195 0.000835
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150115 0.002656 0 0 0 0 0 1 1 100 2 : 27 300 1304 3695 7985 13384 17171 16731 12298 6721 2652 715 118 9 0 : 0.000245 0.000596 1.242958 1.244041
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000040 ] 0.000216 0.000124 0.000601
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.001343 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000139 0.000341 0.030550 0.031225
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000353 ] 0.000346 0.000159 0.001093
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.003583 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000219 0.000379 0.035522 0.036464
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000047 ] 0.000323 0.000138 0.000828
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.001455 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000144 0.000513 0.022917 0.023788
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000050 ] 0.000199 0.000206 0.000703
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.001524 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000167 0.000656 1.287639 1.288688
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000043 ] 0.000185 0.000205 0.000684
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.001459 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000147 0.000250 1.525292 1.525909
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000059 ] 0.000160 0.000157 0.017007
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.001484 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000157 0.000265 1.260544 1.261234
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.008918 ] 0.000265 0.000169 0.016804
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.001749 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000151 0.005463 0.051455 0.057300
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000055 ] 0.000535 0.000131 0.000960
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.001744 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000157 0.000642 0.058248 0.059288
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000073 ] 0.000321 0.000190 0.000853
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 149803 0.004375 0 0 0 0 0 1 1 100 2 : 27 284 1246 3615 7933 13368 17169 16731 12298 6721 2652 715 118 9 0 : 0.000248 0.006055 1.114315 1.120897
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000052 ] 0.000827 0.000189 0.001464
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.001656 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000140 0.000307 0.037732 0.038474
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000044 ] 0.000221 0.000136 0.000649
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.006430 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.012723 0.000364 0.036455 0.056280
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.038093 ] 0.000779 0.000636 0.040511
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.001698 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000246 0.000397 0.063823 0.065277
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000009 ] 0.000000 0.000000 0.002497
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 0 0.000000 0 0 0 0 0 1 1 100 2 : 0 0 : 0.000016 0.000011 0.000001 0.000810
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.013772 ] 0.000169 0.000252 0.037088
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.001472 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000155 0.000413 1.381430 1.382233
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000054 ] 0.000183 0.000228 0.002307
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.001653 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000153 0.000255 1.385592 1.386272
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000053 ] 0.000255 0.000122 0.000656
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.001606 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000151 0.000666 0.129156 0.130191
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000054 ] 0.000279 0.000126 0.000678
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.002192 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000153 0.001576 0.088445 0.090416
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000323 ] 0.000303 0.000213 0.001105
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150115 0.002727 0 0 0 0 0 1 1 100 2 : 27 300 1304 3695 7985 13384 17171 16731 12298 6721 2652 715 118 9 0 : 0.000245 0.000682 1.140345 1.141504
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000085 ] 0.000692 0.000283 0.036182
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150115 0.003861 0 0 0 0 0 1 1 100 2 : 27 300 1304 3695 7985 13384 17171 16731 12298 6721 2652 715 118 9 0 : 0.000247 0.000954 1.057931 1.059454
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000043 ] 0.000206 0.000133 0.000627
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.001357 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000140 0.000315 0.039544 0.040286
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000049 ] 0.000172 0.000200 0.000669
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.001472 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.004735 0.000269 1.207256 1.212559
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000062 ] 0.000577 0.000127 0.001002
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.001700 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000160 0.000644 0.053693 0.054755
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000289 ] 0.000378 0.001643 0.002643
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150061 0.002968 0 0 0 0 0 1 1 100 2 : 27 290 1276 3675 7993 13398 17175 16731 12298 6721 2652 715 118 9 0 : 0.000648 0.000686 1.059847 1.061453
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000080 ] 0.000360 0.000187 0.004136
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150061 0.002634 0 0 0 0 0 1 1 100 2 : 27 290 1276 3675 7993 13398 17175 16731 12298 6721 2652 715 118 9 0 : 0.000247 0.000712 1.159808 1.161018
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000091 ] 0.000359 0.000198 0.010842
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150061 0.002665 0 0 0 0 0 1 1 100 2 : 27 290 1276 3675 7993 13398 17175 16731 12298 6721 2652 715 118 9 0 : 0.000242 0.000680 1.118633 1.120446
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000045 ] 0.000170 0.000193 0.000640
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.001514 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000159 0.000251 2.013733 2.014404
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000075 ] 0.000316 0.000190 0.000970
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 6260 0.003073 0 0 0 0 0 1 1 100 2 : 11 104 383 775 986 837 480 180 40 4 0 : 0.000216 0.000405 0.100217 0.101157
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 8 0 0 0.000069 ] 0.000255 0.000222 0.000937
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 2102 0.002107 0 0 0 0 0 1 1 100 2 : 8 66 208 345 336 196 64 9 0 : 0.000203 0.000303 0.045272 0.047837
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 8 0 0 0.000062 ] 0.000297 0.000287 0.001003
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 2102 0.001332 0 0 0 0 0 1 1 100 2 : 8 66 208 345 336 196 64 9 0 : 0.000208 0.000301 0.037201 0.038128
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 8 0 0 0.000061 ] 0.000283 0.000218 0.000883
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 2102 0.015523 0 0 0 0 0 1 1 100 2 : 8 66 208 345 336 196 64 9 0 : 0.000176 0.000296 0.048662 0.049658
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000105 ] 0.000885 0.000241 0.001604
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 6344 0.013296 0 0 0 0 0 1 1 100 2 : 11 108 395 788 992 838 480 180 40 4 0 : 0.000235 0.000705 0.289633 0.290827
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 18 0 0 0.000100 ] 0.000410 0.000201 0.001108
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 8668 0.003158 0 0 0 0 0 1 1 100 2 : 18 173 603 1133 1328 1034 544 189 40 4 0 : 0.000638 0.000698 0.136114 0.149752
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 35 0 0 0.000183 ] 0.000637 0.000216 0.002355
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 243554 0.010873 0 0 0 0 0 1 1 100 2 : 35 548 2935 8613 16389 21881 21311 15403 8294 3311 968 202 28 2 0 : 0.005789 0.009889 2.491420 2.507412
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 35 0 0 0.001556 ] 0.000719 0.000262 0.006333
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 243554 0.009538 0 0 0 0 0 1 1 100 2 : 35 548 2935 8613 16389 21881 21311 15403 8294 3311 968 202 28 2 0 : 0.000566 0.035726 2.915716 2.952355
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 23 0 0 0.000197 ] 0.000596 0.000510 0.001735
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000096 ] 0.000434 0.000173 0.001396
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.004593 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.002618 0.000695 0.046093 0.050189
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.003455 ] 0.000395 0.000203 0.032579
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2792 0.002972 0 0 0 0 0 1 1 100 2 : 17 147 399 508 338 115 16 0 : 0.000309 0.000622 0.052283 0.053497
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000095 ] 0.000304 0.000277 0.001036
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.003029 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000284 0.000469 2.503165 2.504214
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000097 ] 0.000326 0.000809 0.007210
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.002888 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000287 0.000469 1.973491 1.974571
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000119 ] 0.000712 0.000639 0.001831
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.004050 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000322 0.001128 0.098772 0.100501
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000162 ] 0.000566 0.001232 0.002391
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150115 0.005300 0 0 0 0 0 1 1 100 2 : 27 300 1304 3695 7985 13384 17171 16731 12298 6721 2652 715 118 9 0 : 0.000501 0.001196 2.265547 2.267574
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000168 ] 0.000572 0.000358 0.004144
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150115 0.005419 0 0 0 0 0 1 1 100 2 : 27 300 1304 3695 7985 13384 17171 16731 12298 6721 2652 715 118 9 0 : 0.000538 0.001146 1.943452 1.945517
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000105 ] 0.000382 0.000190 0.008034
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.002788 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000364 0.004474 0.227142 0.252186
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000096 ] 0.000519 0.001328 0.002313
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.005040 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000393 0.000923 0.062452 0.070138
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000092 ] 0.000342 0.000322 0.001264
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.002985 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000288 0.000471 2.298019 2.299075
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000121 ] 0.000468 0.000200 0.001146
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.012794 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000323 0.001107 0.131665 0.133478
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000121 ] 0.000842 0.000308 0.001756
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.003314 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000319 0.001395 0.100918 0.103378
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000091 ] 0.000329 0.000345 0.001128
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.002977 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000288 0.000518 2.247055 2.248184
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 14 0 0 0.000108 ] 0.000364 0.000208 0.001624
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 9181 0.002418 0 0 0 0 0 1 1 100 2 : 14 124 440 919 1279 1222 792 333 82 9 0 : 0.000271 0.000498 0.105300 0.106343
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 14 0 0 0.000098 ] 0.000374 0.000224 0.001040
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 9181 0.002297 0 0 0 0 0 1 1 100 2 : 14 124 440 919 1279 1222 792 333 82 9 0 : 0.000269 0.000483 0.107884 0.108900
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 19 0 0 0.000115 ] 0.000533 0.000234 0.001233
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 9803 0.003354 0 0 0 0 0 1 1 100 2 : 19 166 543 1031 1337 1234 792 333 82 9 0 : 0.000345 0.000769 0.136714 0.138129
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000164 ] 0.000547 0.000329 0.001429
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150307 0.005867 0 0 0 0 0 1 1 100 2 : 27 301 1319 3740 8040 13414 17177 16731 12298 6721 2652 715 118 9 0 : 0.000513 0.001246 1.913143 1.915228
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.009291 ] 0.010433 0.000355 0.031058
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150061 0.013533 0 0 0 0 0 1 1 100 2 : 27 290 1276 3675 7993 13398 17175 16731 12298 6721 2652 715 118 9 0 : 0.000551 0.001287 1.968861 1.971047
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 12 0 0 0.000088 ] 0.000321 0.000159 0.006626
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 744 0.001503 0 0 0 0 0 1 1 100 2 : 12 77 161 153 70 13 0 : 0.000666 0.000440 0.009373 0.012382
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 57 0 0 0.000399 ] 0.001254 0.000988 0.003167
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000163 ] 0.000785 0.002492 0.003876
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150307 0.005536 0 0 0 0 0 1 1 100 2 : 27 301 1319 3740 8040 13414 17177 16731 12298 6721 2652 715 118 9 0 : 0.000506 0.001186 1.804528 1.806584
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000209 ] 0.000551 0.000310 0.009820
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150061 0.005276 0 0 0 0 0 1 1 100 2 : 27 290 1276 3675 7993 13398 17175 16731 12298 6721 2652 715 118 9 0 : 0.000516 0.001144 2.131616 2.133642
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000163 ] 0.000586 0.000348 0.001674
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150115 0.005577 0 0 0 0 0 1 1 100 2 : 27 300 1304 3695 7985 13384 17171 16731 12298 6721 2652 715 118 9 0 : 0.001858 0.001300 1.712553 1.716035
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.003158 ] 0.000573 0.000584 0.006263
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.010241 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000295 0.000618 0.074570 0.075763
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000096 ] 0.000814 0.000207 0.024177
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.002734 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000297 0.000663 0.107821 0.109117
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000097 ] 0.000376 0.000229 0.001079
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.004147 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000411 0.001439 0.053912 0.058523
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000211 ] 0.000385 0.000211 0.001834
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.002604 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.030113 0.000647 0.031197 0.121978
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000136 ] 0.000428 0.000165 0.001127
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.003062 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000293 0.000647 0.074942 0.076172
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000123 ] 0.000567 0.000183 0.001250
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.003215 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000902 0.002303 0.057406 0.063897
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000099 ] 0.000450 0.001678 0.002688
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2984 0.002845 0 0 0 0 0 1 1 100 2 : 17 148 414 553 393 145 22 0 : 0.000332 0.000639 0.033282 0.057411
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000161 ] 0.000733 0.000359 0.001666
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000122 ] 0.000462 0.000196 0.001148
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.003241 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000325 0.001109 0.077235 0.078957
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.000174 ] 0.013138 0.000337 0.014112
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 149803 0.005679 0 0 0 0 0 1 1 100 2 : 27 284 1246 3615 7933 13368 17169 16731 12298 6721 2652 715 118 9 0 : 0.000523 0.001432 1.863342 1.865625
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000121 ] 0.000473 0.000238 0.001216
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.003222 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000314 0.001100 0.087235 0.088918
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000123 ] 0.000457 0.000203 0.001147
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.003246 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000320 0.001119 0.073537 0.075360
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000096 ] 0.000000 0.000000 0.000713
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 0 0.000000 0 0 0 0 0 1 1 100 2 : 0 0 : 0.000015 0.000010 0.000000 0.000222
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000049 ] 0.000229 0.000219 0.000733
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 2792 0.009353 0 0 0 0 0 1 1 100 2 : 17 147 399 508 338 115 16 0 : 0.000141 0.000335 0.047027 0.047713
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 10 1 1 F1stats = [ 11 0 0 0.000155 ] 0.000238 0.000564 0.006291
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 1 145992 0.001577 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000153 0.000257 1.320778 1.321483
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 10 1 1 F1stats = [ 17 0 0 0.000064 ] 0.015066 0.000150 0.015684
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 1 2534 0.001972 0 0 0 0 0 1 1 100 2 : 17 135 353 441 292 100 14 0 : 0.000155 0.000636 0.063459 0.064481
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 10 1 1 F1stats = [ 27 0 0 0.003044 ] 0.000488 0.000446 0.005739
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 1 150061 0.002670 0 0 0 0 0 1 1 100 2 : 27 290 1276 3675 7993 13398 17175 16731 12298 6721 2652 715 118 9 0 : 0.000247 0.015049 1.230021 1.245577
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 2049 0 0 0.021118 ] 0.117782 0.000303 0.140272
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 2049 0 0 0.011250 ] 0.074846 0.000325 0.087321
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 2049 0 0 0.014674 ] 0.039061 0.000331 0.055083
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 26 0 0 0.000424 ] 0.001381 0.000221 0.035574
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 59913 0.006892 0 0 0 0 0 1 1 5 2 : 26 345 1695 4645 8274 10259 9013 5499 2154 432 0 : 0.000416 0.001215 1.276847 1.278776
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 26 0 0 0.000125 ] 0.000677 0.000204 0.001479
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 59913 0.006859 0 0 0 0 0 1 1 5 2 : 26 345 1695 4645 8274 10259 9013 5499 2154 432 0 : 0.000418 0.008278 1.102207 1.111396
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 26 0 0 0.000130 ] 0.004298 0.000189 0.005033
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 59913 0.006088 0 0 0 0 0 1 1 5 2 : 26 345 1695 4645 8274 10259 9013 5499 2154 432 0 : 0.001010 0.001028 0.929385 0.944093
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 10 1 1 F1stats = [ 26 0 0 0.000289 ] 0.000555 0.000337 0.001629
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 59913 0.006069 0 0 0 0 0 1 1 5 2 : 26 345 1695 4645 8274 10259 9013 5499 2154 432 0 : 0.000425 0.010625 0.810636 0.822133
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 20 2 1 F1stats = [ 26 0 0 0.000133 ] 0.000762 0.000430 0.002382
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 2 59913 0.013580 0 0 0 0 0 1 1 5 2 : 26 345 1695 4645 8274 10259 9013 5499 2154 432 0 : 0.000660 0.001578 1.188597 1.194927
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 20 2 1 F1stats = [ 26 0 0 0.000142 ] 0.000617 0.000245 0.004629
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 2 59913 0.006398 0 0 0 0 0 1 1 5 2 : 26 345 1695 4645 8274 10259 9013 5499 2154 432 0 : 0.000418 0.001171 1.139806 1.141690
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 20 2 1 F1stats = [ 26 0 0 0.000142 ] 0.002717 0.000972 0.026187
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 2 59913 0.006406 0 0 0 0 0 1 1 5 2 : 26 345 1695 4645 8274 10259 9013 5499 2154 432 0 : 0.000451 0.001160 1.051761 1.053680
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 20 2 1 F1stats = [ 10 0 0 0.001293 ] 0.000440 0.000486 0.003387
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 2 34241 0.003423 0 0 0 0 0 1 1 5 2 : 10 119 600 1760 3406 4610 4420 2945 1260 276 0 : 0.000289 0.000534 1.204845 1.205970
+TPOSE SEQ NOF2 /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 20 2 1 F1stats = [ 10 0 0 0.000099 ] 0.002143 0.004996 0.007686
+SPADE /Users/JDOG/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 2 34241 0.004259 0 0 0 0 0 1 1 5 2 : 10 119 600 1760 3406 4610 4420 2945 1260 276 0 : 0.003169 0.000544 1.101323 1.105336
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 21 0 0 0.000056 ] 0.000348 0.000098 0.000770
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 49552 0.002944 0 0 0 0 0 1 1 5 2 : 21 270 1325 3658 6582 8247 7318 4509 1782 360 0 : 0.000173 0.000884 0.800616 0.801957
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 17 0 0 0.000703 ] 0.000760 0.000256 0.003251
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 32370 0.002201 0 0 0 0 0 1 1 5 2 : 17 204 975 2657 4743 5906 5212 3192 1254 252 0 : 0.000142 0.000785 0.542716 0.543893
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 17 0 0 0.000041 ] 0.000226 0.000126 0.000609
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 33543 0.003515 0 0 0 0 0 1 1 100 2 : 17 204 975 2657 4743 5911 5279 3384 1526 461 84 7 0 : 0.000149 0.019246 0.570929 0.590743
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 17 0 0 0.002677 ] 0.000237 0.000319 0.004314
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 33543 0.001894 0 0 0 0 0 1 1 100 2 : 17 204 975 2657 4743 5911 5279 3384 1526 461 84 7 0 : 0.000252 0.000367 0.329207 0.362829
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 15 0 0 0.000038 ] 0.000225 0.000162 0.000710
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 37456 0.001974 0 0 0 0 0 1 1 100 2 : 15 204 1031 2907 5310 6717 6048 3888 1752 528 96 8 0 : 0.000125 0.000349 0.557601 0.558281
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 21 0 0 0.000054 ] 0.000275 0.000126 0.004067
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 2659501 0.004221 0 0 0 0 0 1 1 100 2 : 21 427 3430 16193 52279 124362 227112 326049 372950 342057 251680 147784 68432 24472 6528 1224 144 8 0 : 0.000288 0.000690 31.069656 31.070898
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 21 0 0 0.000052 ] 0.012650 0.000110 0.013078
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 41 0 0 0.000091 ] 0.000400 0.000155 0.000888
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 4138309 0.008235 0 0 0 0 0 1 1 100 2 : 41 789 6028 27314 85294 197652 353904 500910 567396 517086 378976 222040 102704 36712 9792 1836 216 12 0 : 0.000858 0.002793 56.250564 56.254481
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 41 0 0 0.000112 ] 0.000385 0.000148 0.036163
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 4138309 0.008166 0 0 0 0 0 1 1 100 2 : 41 789 6028 27314 85294 197652 353904 500910 567396 517086 378976 222040 102704 36712 9792 1836 216 12 0 : 0.000310 0.015903 59.860910 59.877414
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 41 0 0 0.000108 ] 0.000389 0.000131 0.008044
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 4138309 0.008575 0 0 0 0 0 1 1 100 2 : 41 789 6028 27314 85294 197652 353904 500910 567396 517086 378976 222040 102704 36712 9792 1836 216 12 0 : 0.000313 0.015639 52.985895 53.002108
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000133 ] 0.000000 0.000000 0.000812
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 0 0.000000 0 0 0 0 0 1 1 100 2 : 0 0 : 0.000194 0.000010 0.000000 0.000369
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 0 1 1 F1stats = [ 0 0 0 0.000042 ] 0.000000 0.000000 0.001520
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 1 0 0.000000 0 0 0 0 0 1 1 100 2 : 0 0 : 0.000016 0.000009 0.000000 0.000181
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 20 2 1 F1stats = [ 37 0 0 0.000077 ] 0.007066 0.000089 0.009381
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 2 2621847 0.006437 0 0 0 0 0 1 1 100 2 : 37 635 4538 19429 57713 128184 221832 305982 340274 306300 222768 129948 59976 21420 5712 1071 126 7 0 : 0.000269 0.002773 34.067895 34.071427
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.data 0.100000 20 2 1 F1stats = [ 41 0 0 0.002217 ] 0.004683 0.000391 0.008556
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-0/sequence-0.tpose 0.100000 2 2540159 0.006425 0 0 0 0 0 1 1 100 2 : 41 665 4638 19624 57959 128393 221952 306027 340284 306301 222768 129948 59976 21420 5712 1071 126 7 0 : 0.001399 0.002898 35.380533 35.385118
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 41 0 0 0.000103 ] 0.000453 0.000169 0.001040
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 4138309 0.008745 0 0 0 0 0 1 1 100 2 : 41 789 6028 27314 85294 197652 353904 500910 567396 517086 378976 222040 102704 36712 9792 1836 216 12 0 : 0.000314 0.002135 56.844012 56.846712
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 49 0 0 0.000110 ] 0.053017 0.000764 0.054311
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 3276465 0.008976 0 0 0 0 0 1 1 100 2 : 49 833 5892 25092 74346 164934 285288 393435 437502 393815 286416 167076 77112 27540 7344 1377 162 9 0 : 0.000359 0.025729 45.803002 45.829588
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.data 0.100000 20 2 1 F1stats = [ 53 0 0 0.014909 ] 0.000661 0.076670 0.092887
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-2/sequence-2.tpose 0.100000 2 9136756 0.012843 0 0 0 0 0 1 1 100 2 : 53 1131 9380 45036 146277 348169 635345 912204 1045180 961633 710482 419076 194903 69963 18717 3516 414 23 0 : 0.004863 0.003765 121.820959 121.829860
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 20 2 1 F1stats = [ 11 0 0 0.000074 ] 0.000530 0.000437 0.014661
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 2 145992 0.001826 0 0 0 0 0 1 1 100 2 : 11 150 893 3174 7641 13268 17155 16731 12298 6721 2652 715 118 9 0 : 0.000158 0.000354 1.696877 1.697649
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.data 0.100000 20 2 1 F1stats = [ 11 0 0 0.000047 ] 0.000192 0.000159 0.000648
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-1/sequence-1.tpose 0.100000 2 121423 0.001685 0 0 0 0 0 1 1 100 2 : 11 133 731 2444 5581 9221 11349 10527 7348 3806 1420 361 56 4 0 : 0.000154 0.000314 1.060786 1.061529
+TPOSE SEQ NOF2 /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.data 0.100000 20 2 1 F1stats = [ 71 0 0 0.000147 ] 0.017232 0.000229 0.018118
+SPADE /Users/mrjd225/Desktop/Dropbox/seerdb/data/visible/sequence-3/sequence-3.tpose 0.100000 2 9128775 0.014386 0 0 0 0 0 1 1 100 2 : 71 1521 11866 53624 165421 377587 666470 932314 1047095 949059 693559 405942 187803 67183 17935 3365 396 22 0 : 0.000540 0.055271 103.197474 103.253674
