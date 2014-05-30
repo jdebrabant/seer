@@ -138,7 +138,7 @@ public class PredictionModelTester extends Tester
 			
 			template_prediction = predictor.predictTemplate(template_history);
 			
-			//System.out.print(template_prediction + " : " + template_sequence.get(current_query + 1));
+			System.out.print(template_prediction + " : " + template_sequence.get(current_query + 1));
 			if(template_prediction == template_sequence.get(current_query + 1))
 			{
 				//System.out.println(", CORRECT"); 
@@ -152,11 +152,11 @@ public class PredictionModelTester extends Tester
 			parameter_prediction = predictor.predictParameters(template_sequence.get(current_query), template_prediction, 
 															   parameter_sequence.get(current_query)); 
 			
-			/*
+			
 			System.out.println("current query parameters: " + parameter_sequence.get(current_query)); 
 			System.out.println("predicted parameters: " + parameter_prediction); 
 			System.out.println("actual parameters: " + parameter_sequence.get(current_query+1)); 
-			 */
+			 
 			
 			if(parameter_sequence.get(current_query+1).size() == 0)
 			{

@@ -32,7 +32,7 @@ public class ParameterPredictor
 		ar = findBestRule(current_template, predicted_template, current_query_partitions); 
 		
 		//System.out.println("rule has support: " + ar.support); 
-		
+	 	//System.out.println(ar.rhs);	
 		return ar.rhs; 
 	}
 	
@@ -98,7 +98,7 @@ public class ParameterPredictor
 				max_rule = i; 
 			}
 		}
-		
+		System.out.println(rules.get(max_rule));
 		return rules.get(max_rule); 
 	}
 	

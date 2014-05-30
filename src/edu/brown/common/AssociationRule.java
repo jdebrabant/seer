@@ -66,7 +66,7 @@ public class AssociationRule
 				
 				partition = new Integer(Integer.parseInt(token)); 
 				
-				if(partition < WorkloadGenerator2D.MAX_QUERY_TEMPLATES)
+				if(partition <= 5)
 				{
 					lhs_template_id = partition.intValue(); 
 				}
@@ -86,7 +86,7 @@ public class AssociationRule
 				
 				partition = new Integer(Integer.parseInt(token)); 
 				
-				if(partition < WorkloadGenerator2D.MAX_QUERY_TEMPLATES)
+				if(partition <= 5)
 				{
 					rhs_template_id = partition.intValue(); 
 				}

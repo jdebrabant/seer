@@ -106,6 +106,7 @@ public class Predictor
 			
 			while((line = in.readLine()) != null)
 			{
+				System.out.println(line);
 				parameter_predictor.addAssociationRule(new AssociationRule(line)); 
 			}
 		}
